@@ -1,6 +1,6 @@
 # 2018_UsedCarListings
 
-##About
+## About
 This is a project from the Career Foundry Data Analytics Program centered around using scikit-learn with Python for supervised/unsupervised machine learning techniques. It also contains scripts for using quandl to source time series data/ performing time series analysis.
 
 ## Objective

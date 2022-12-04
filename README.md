@@ -1,4 +1,4 @@
-# 2018_UsedCarListings
+# 2018_CarListings
 
 ## About
 This is a project from the Career Foundry Data Analytics Program centered around using scikit-learn with Python for supervised/unsupervised machine learning techniques.
@@ -13,4 +13,8 @@ Below is the link the dataset collected from Kaggle as "true_car_listings.csv":
 The csv files in the "02 Data" folder were uploaded using Git LFS.
 
 ## Code
-The scripts walk through performing data quality checks and exploratory analysis, multiple linear regression and k-means/k-prototypes clustering techniques in scikit-learn.
+The scripts walk through performing:
+- Data quality checks and exploratory analysis
+- Predicting price using linear regression, random forest, and gradient boosting
+- Using folium and geospatial data to create a choropleth map of price residuals
+- Performing K-means clustering

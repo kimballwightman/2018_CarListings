@@ -13,7 +13,7 @@ Below is the link the dataset collected from Kaggle as "true_car_listings.csv":
 The csv files in the "02 Data" folder were uploaded using Git LFS.
 
 ## Code
-The scripts walk through performing:
+The scripts walk through:
 - Data quality checks and exploratory analysis
 - Predicting price using linear regression, random forest, and gradient boosting
 - Using folium and geospatial data to create a choropleth map of price residuals
